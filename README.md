@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -22,8 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
