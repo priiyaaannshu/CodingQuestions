@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 | [0018-4sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
