@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 ## Matrix
@@ -62,5 +63,6 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
