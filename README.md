@@ -18,6 +18,7 @@
 | [0118-pascals-triangle](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -64,5 +65,6 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
