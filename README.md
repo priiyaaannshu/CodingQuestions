@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0875-koko-eating-bananas) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0118-pascals-triangle) |
+| [0410-split-array-largest-sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0035-search-insert-position](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0875-koko-eating-bananas) |
@@ -79,4 +82,12 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/priiyaaannshu/CodingQuestions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/priiyaaannshu/CodingQuestions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/priiyaaannshu/CodingQuestions/tree/master/1539-kth-missing-positive-number) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
