@@ -109,4 +109,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/priiyaaannshu/CodingQuestions/tree/master/1021-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
