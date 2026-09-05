@@ -68,6 +68,7 @@
 | [0018-4sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
