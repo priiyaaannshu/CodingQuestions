@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/priiyaaannshu/CodingQuestions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
@@ -184,4 +185,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
