@@ -120,10 +120,12 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/priiyaaannshu/CodingQuestions/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -135,6 +137,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/priiyaaannshu/CodingQuestions/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
