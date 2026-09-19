@@ -24,6 +24,7 @@
 | [0322-coin-change](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0875-koko-eating-bananas) |
@@ -50,6 +51,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0225-implement-stack-using-queues](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/priiyaaannshu/CodingQuestions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0496-next-greater-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
