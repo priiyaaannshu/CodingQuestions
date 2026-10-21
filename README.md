@@ -19,6 +19,7 @@
 | [0118-pascals-triangle](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0322-coin-change) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/priiyaaannshu/CodingQuestions/tree/master/0410-split-array-largest-sum) |
 ## Sorting
